@@ -7,14 +7,18 @@ During my sophomore year in high school, I developed a new website for my school
 
 In large part, what I am most proud of with this project is not necessarily the code but the workflow that I implemented. <i> The Anvil</i> has had websites in the past, but they were often too complicated for students to understand when the creator graduated. However, this new system for the Anvil is pretty simple for anyone – even with a non-technical background – to understan, and Wordpress has plenty of online documentation. So far, it has held up strong! 
 
-Though I can't share the password to the website publicly, here are some images of what it looks like.
+Though I can't share the password to the website publicly, here are some images of what it looks like. 
 
 ![Screen Shot 2021-10-24 at 12 57 23 PM](https://user-images.githubusercontent.com/32113511/138604572-085767c3-f87c-4c3f-80e8-70f90cb0af03.png)
+
 These 2 images show what the home page look like. 
+
 ![Screen Shot 2021-10-24 at 12 57 44 PM](https://user-images.githubusercontent.com/32113511/138604597-08c2c705-5bbd-4d8f-9297-bed045aa36d5.png)
 
 Here's an image of what an article would look like. I wrote this article, but did not post it – someone else was able to attribute it to me. 
+
 ![Screen Shot 2021-10-24 at 1 05 57 PM](https://user-images.githubusercontent.com/32113511/138604823-75ebcd8c-9f7a-42f0-b544-e9edf6b02ba0.png)
 
 And this is what it looks like when a user filters by my name. They can see all the articles I wrote, even though a different person posted these articles on my behalf.
+
 ![Screen Shot 2021-10-24 at 1 00 43 PM](https://user-images.githubusercontent.com/32113511/138604757-c0fc717a-2b5f-4ca8-af45-ec2211e21269.png)
