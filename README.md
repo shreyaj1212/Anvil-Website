@@ -1,4 +1,4 @@
-# Anvil-Website
+# Anvil Website
 
 During my sophomore year in high school, I developed a new website for my school's newspaper, <i>The Anvil</i> using a WordPress framework. However, even though the Wordpress framework provides a lot of the basic functionality of the website, I edited the code in many ways to meet the needs of <i>The Anvil</i>. I worked with <i> The Anvil</i>'s faculty advisor to come up with a list of differences:
 
